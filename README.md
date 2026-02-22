@@ -4,7 +4,7 @@
 
 ```sh
 git clone git@github.com:talmage89/tmux.git ~/.config/tmux
-git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
+git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins
 ```
 
 Then launch tmux and install plugins:
